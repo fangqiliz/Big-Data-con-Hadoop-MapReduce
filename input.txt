@@ -1,0 +1,5 @@
+Hadoop es un framework de codigo abierto para el procesamiento distribuido.
+Hadoop permite procesar grandes volumenes de datos usando el modelo MapReduce.
+El Mapper y el Reducer son las dos fases principales de un job de MapReduce.
+Hadoop Streaming permite escribir el Mapper y el Reducer en Python.
+Python es un lenguaje simple y muy usado en Big Data.
